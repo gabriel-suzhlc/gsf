@@ -5,15 +5,14 @@
 .principal{
 	background: #CCCCCC;
 	padding: 30px;
+	text-align: center;
 }
 
 .titulo-principal {
 	padding-left: 20px;
 }
 
-img {
-  text-align: center;
-}
+
 .titulo-centralizado {
 	text-align: center
 }
